@@ -1,0 +1,6 @@
+{'乳酸脱氢酶(U/L)'} -> {'铁蛋白(ng/mL)'}
+  support=0.352, confidence=0.713, lift=1.432
+
+{'铁蛋白(ng/mL)'} -> {'乳酸脱氢酶(U/L)'}
+  support=0.352, confidence=0.707, lift=1.432
+

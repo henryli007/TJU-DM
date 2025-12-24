@@ -1,0 +1,6 @@
+{'舒张压'} -> {'收缩压'}
+  support=0.219, confidence=0.750, lift=1.834
+
+{'舒张压'} -> {'心率'}
+  support=0.206, confidence=0.708, lift=1.446
+
