@@ -1,0 +1,117 @@
+{
+  "features_scaled": [
+    "Glucose",
+    "Urea",
+    "Creatinine",
+    "Sodium",
+    "Potassium",
+    "TB",
+    "DB",
+    "ALT",
+    "AST",
+    "ALP",
+    "Total Protein",
+    "Albubin",
+    "Ferritin",
+    "Hemoglobin",
+    "WBC",
+    "Platelet",
+    "CRP",
+    "PCT",
+    "PT",
+    "D-Dimer",
+    "CPK-MB",
+    "LDH"
+  ],
+  "scaler_type": "MinMaxScaler",
+  "feature_ranges": {
+    "Glucose": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Urea": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Creatinine": {
+      "min": 0.0,
+      "max": 1.0000000000000002
+    },
+    "Sodium": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Potassium": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "TB": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "DB": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "ALT": {
+      "min": 0.0,
+      "max": 0.9999999999999999
+    },
+    "AST": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "ALP": {
+      "min": 0.0,
+      "max": 0.9999999999999998
+    },
+    "Total Protein": {
+      "min": 0.0,
+      "max": 1.0000000000000002
+    },
+    "Albubin": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Ferritin": {
+      "min": 0.0,
+      "max": 0.9999999999999999
+    },
+    "Hemoglobin": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "WBC": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Platelet": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "CRP": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "PCT": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "PT": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "D-Dimer": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "CPK-MB": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "LDH": {
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

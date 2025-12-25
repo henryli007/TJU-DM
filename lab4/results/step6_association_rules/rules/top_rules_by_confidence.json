@@ -1,0 +1,162 @@
+[
+  {
+    "rule": "['ALT=ALT_low', 'ALP=ALP_high'] => ['DB=DB_low']",
+    "support": 0.06412337662337662,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0002081927812447315
+  },
+  {
+    "rule": "['ALT=ALT_med', 'ALP=ALP_high'] => ['DB=DB_low']",
+    "support": 0.11525974025974026,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.00037421993590824876
+  },
+  {
+    "rule": "['Potassium=Potassium_high', 'Urea=Urea_low'] => ['PCT=PCT_zero']",
+    "support": 0.06493506493506493,
+    "confidence": 1.0,
+    "lift": 1.2687950566426365,
+    "conviction": Infinity,
+    "leverage": 0.013756535672120089
+  },
+  {
+    "rule": "['PCT=PCT_non_zero', 'Total Protein=Total Protein_zero'] => ['Tested_PCT']",
+    "support": 0.0633116883116883,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.04989906603137122
+  },
+  {
+    "rule": "['Total Protein=Total Protein_non_zero', 'Tested_PCT'] => ['PCT=PCT_non_zero']",
+    "support": 0.14853896103896103,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.11707088568898633
+  },
+  {
+    "rule": "['Total Protein=Total Protein_non_zero', 'PCT=PCT_non_zero'] => ['Tested_PCT']",
+    "support": 0.14853896103896103,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.11707088568898633
+  },
+  {
+    "rule": "['Tested_PCT', 'Tested_Total Protein'] => ['PCT=PCT_non_zero']",
+    "support": 0.14853896103896103,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.11707088568898633
+  },
+  {
+    "rule": "['PCT=PCT_non_zero', 'Tested_Total Protein'] => ['Tested_PCT']",
+    "support": 0.14853896103896103,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.11707088568898633
+  },
+  {
+    "rule": "['Tested_PCT', 'Tested_PT'] => ['PCT=PCT_non_zero']",
+    "support": 0.09577922077922078,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.07548833066284366
+  },
+  {
+    "rule": "['PCT=PCT_non_zero', 'Tested_PT'] => ['Tested_PCT']",
+    "support": 0.09577922077922078,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.07548833066284366
+  },
+  {
+    "rule": "['AST=AST_low', 'ALP=ALP_high'] => ['DB=DB_low']",
+    "support": 0.05438311688311688,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.00017656856130882082
+  },
+  {
+    "rule": "['Tested_Albubin', 'Tested_PCT'] => ['PCT=PCT_non_zero']",
+    "support": 0.15178571428571427,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.11962981215213357
+  },
+  {
+    "rule": "['PCT=PCT_non_zero', 'Tested_Albubin'] => ['Tested_PCT']",
+    "support": 0.15178571428571427,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.11962981215213357
+  },
+  {
+    "rule": "['Tested_PCT', 'TB=TB_med'] => ['PCT=PCT_non_zero']",
+    "support": 0.09009740259740259,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.07101020935233597
+  },
+  {
+    "rule": "['PCT=PCT_non_zero', 'TB=TB_med'] => ['Tested_PCT']",
+    "support": 0.09009740259740259,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.07101020935233597
+  },
+  {
+    "rule": "['TB=TB_low', 'Tested_PCT'] => ['PCT=PCT_non_zero']",
+    "support": 0.0762987012987013,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.06013477188396019
+  },
+  {
+    "rule": "['TB=TB_low', 'PCT=PCT_non_zero'] => ['Tested_PCT']",
+    "support": 0.0762987012987013,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.06013477188396019
+  },
+  {
+    "rule": "['AST=AST_med', 'ALP=ALP_high'] => ['DB=DB_low']",
+    "support": 0.11201298701298701,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0003636785292629452
+  },
+  {
+    "rule": "['Sodium=Sodium_low', 'Tested_PCT'] => ['PCT=PCT_non_zero']",
+    "support": 0.08522727272727272,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.06717181965761511
+  },
+  {
+    "rule": "['PCT=PCT_non_zero', 'AST=AST_low'] => ['DB=DB_low']",
+    "support": 0.06412337662337662,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0002081927812447315
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "age_mapping": {
+    "10-20 years": 0,
+    "20-30 years": 1,
+    "30-40 years": 2,
+    "40-50 years": 3,
+    "50-60 years": 4,
+    "< 10 years": 5,
+    "≥ 60 years": 6
+  },
+  "gender_mapping": {
+    "Male": 0,
+    "Female": 1
+  }
+}

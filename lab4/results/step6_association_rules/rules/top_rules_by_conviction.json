@@ -1,0 +1,162 @@
+[
+  {
+    "rule": "['WBC=WBC_med', 'Tested_Albubin'] => ['Albubin=Albubin_non_zero']",
+    "support": 0.06574675324675325,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.047975918156518804
+  },
+  {
+    "rule": "['WBC=WBC_med', 'Albubin=Albubin_non_zero'] => ['Tested_Albubin']",
+    "support": 0.06574675324675325,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.047975918156518804
+  },
+  {
+    "rule": "['Potassium=Potassium_low', 'Creatinine=Creatinine_low'] => ['DB=DB_low']",
+    "support": 0.3003246753246753,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0009750801146904964
+  },
+  {
+    "rule": "['AST=AST_high', 'Tested_Albubin'] => ['Albubin=Albubin_non_zero']",
+    "support": 0.11931818181818182,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.08706740702479339
+  },
+  {
+    "rule": "['AST=AST_high', 'Albubin=Albubin_non_zero'] => ['Tested_Albubin']",
+    "support": 0.11931818181818182,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.08706740702479339
+  },
+  {
+    "rule": "['D-Dimer=D-Dimer_med', 'Creatinine=Creatinine_low'] => ['DB=DB_low']",
+    "support": 0.08198051948051949,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0002661705177939011
+  },
+  {
+    "rule": "['D-Dimer=D-Dimer_med', 'Creatinine=Creatinine_low'] => ['Missing_D-Dimer']",
+    "support": 0.08198051948051949,
+    "confidence": 1.0,
+    "lift": 1.6492637215528783,
+    "conviction": Infinity,
+    "leverage": 0.032273175282509704
+  },
+  {
+    "rule": "['Glucose=Glucose_high', 'Creatinine=Creatinine_low'] => ['DB=DB_low']",
+    "support": 0.19318181818181818,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0006272136953955065
+  },
+  {
+    "rule": "['Creatinine=Creatinine_low', 'Glucose=Glucose_low'] => ['DB=DB_low']",
+    "support": 0.24269480519480519,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0007879701467363998
+  },
+  {
+    "rule": "['Glucose=Glucose_med', 'Creatinine=Creatinine_low'] => ['DB=DB_low']",
+    "support": 0.21266233766233766,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0006904621352673279
+  },
+  {
+    "rule": "['Creatinine=Creatinine_low', 'Hemoglobin=Hemoglobin_high'] => ['DB=DB_low']",
+    "support": 0.18019480519480519,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.00058504806881432
+  },
+  {
+    "rule": "['Hemoglobin=Hemoglobin_low', 'Creatinine=Creatinine_low'] => ['DB=DB_low']",
+    "support": 0.40584415584415584,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0013176758306628344
+  },
+  {
+    "rule": "['Hemoglobin=Hemoglobin_med', 'Creatinine=Creatinine_low'] => ['DB=DB_low']",
+    "support": 0.0625,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.00020292207792207972
+  },
+  {
+    "rule": "['WBC=WBC_med', 'Creatinine=Creatinine_high'] => ['Troponin=Troponin_1']",
+    "support": 0.06493506493506493,
+    "confidence": 1.0,
+    "lift": 1.0275229357798166,
+    "conviction": Infinity,
+    "leverage": 0.0017393320964749492
+  },
+  {
+    "rule": "['Creatinine=Creatinine_low', 'D-Dimer=D-Dimer_high'] => ['DB=DB_low']",
+    "support": 0.17694805194805194,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0005745066621690165
+  },
+  {
+    "rule": "['Alive', 'ALP=ALP_low'] => ['DB=DB_low']",
+    "support": 0.37987012987012986,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.001233344577500406
+  },
+  {
+    "rule": "['Total Protein=Total Protein_non_zero', 'Tested_Albubin'] => ['Albubin=Albubin_non_zero']",
+    "support": 0.22077922077922077,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.1611043177601619
+  },
+  {
+    "rule": "['Total Protein=Total Protein_non_zero', 'Albubin=Albubin_non_zero'] => ['Tested_Albubin']",
+    "support": 0.22077922077922077,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.1611043177601619
+  },
+  {
+    "rule": "['ALP=ALP_low'] => ['DB=DB_low']",
+    "support": 0.3944805194805195,
+    "confidence": 1.0,
+    "lift": 1.003257328990228,
+    "conviction": Infinity,
+    "leverage": 0.0012807809074042997
+  },
+  {
+    "rule": "['Tested_Albubin', 'Troponin=Troponin_1'] => ['Albubin=Albubin_non_zero']",
+    "support": 0.25405844155844154,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.18538842448136278
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Sodium=Sodium_low', 'Tested_PCT']",
+    "support": 0.08522727272727272,
+    "confidence": 0.40229885057471265,
+    "lift": 4.720306513409962,
+    "conviction": 1.53048513986014,
+    "leverage": 0.06717181965761511
+  },
+  {
+    "rule": "['Tested_PCT'] => ['PCT=PCT_non_zero', 'Sodium=Sodium_low']",
+    "support": 0.08522727272727272,
+    "confidence": 0.40229885057471265,
+    "lift": 4.720306513409962,
+    "conviction": 1.53048513986014,
+    "leverage": 0.06717181965761511
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Hemoglobin=Hemoglobin_low', 'Tested_PCT']",
+    "support": 0.11931818181818182,
+    "confidence": 0.5632183908045978,
+    "lift": 4.720306513409962,
+    "conviction": 2.0162978468899526,
+    "leverage": 0.09404054752066116
+  },
+  {
+    "rule": "['Tested_PCT'] => ['PCT=PCT_non_zero', 'Hemoglobin=Hemoglobin_low']",
+    "support": 0.11931818181818182,
+    "confidence": 0.5632183908045978,
+    "lift": 4.720306513409962,
+    "conviction": 2.0162978468899526,
+    "leverage": 0.09404054752066116
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['ALP=ALP_med', 'Tested_PCT']",
+    "support": 0.05762987012987013,
+    "confidence": 0.2720306513409962,
+    "lift": 4.720306513409962,
+    "conviction": 1.2945189678742313,
+    "leverage": 0.045420944720863554
+  },
+  {
+    "rule": "['Tested_PCT'] => ['Sodium=Sodium_high', 'PCT=PCT_non_zero']",
+    "support": 0.08603896103896104,
+    "confidence": 0.40613026819923376,
+    "lift": 4.720306513409962,
+    "conviction": 1.5389924591537498,
+    "leverage": 0.06781155127340192
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Sodium=Sodium_high', 'Tested_PCT']",
+    "support": 0.08603896103896104,
+    "confidence": 0.40613026819923376,
+    "lift": 4.720306513409962,
+    "conviction": 1.5389924591537498,
+    "leverage": 0.06781155127340192
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Tested_PCT', 'Troponin=Troponin_1']",
+    "support": 0.19642857142857142,
+    "confidence": 0.9272030651340997,
+    "lift": 4.720306513409962,
+    "conviction": 11.038533834586474,
+    "leverage": 0.15481505102040816
+  },
+  {
+    "rule": "['Tested_PCT'] => ['PCT=PCT_non_zero', 'Troponin=Troponin_1']",
+    "support": 0.19642857142857142,
+    "confidence": 0.9272030651340997,
+    "lift": 4.720306513409962,
+    "conviction": 11.038533834586474,
+    "leverage": 0.15481505102040816
+  },
+  {
+    "rule": "['Tested_PCT'] => ['PCT=PCT_non_zero', 'ALP=ALP_med']",
+    "support": 0.05762987012987013,
+    "confidence": 0.2720306513409962,
+    "lift": 4.720306513409962,
+    "conviction": 1.2945189678742313,
+    "leverage": 0.045420944720863554
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Platelet=Platelet_med', 'Tested_PCT']",
+    "support": 0.056006493506493504,
+    "confidence": 0.26436781609195403,
+    "lift": 4.720306513409962,
+    "conviction": 1.2832411728896105,
+    "leverage": 0.04414148148928993
+  },
+  {
+    "rule": "['Tested_PCT'] => ['Platelet=Platelet_med', 'PCT=PCT_non_zero']",
+    "support": 0.056006493506493504,
+    "confidence": 0.26436781609195403,
+    "lift": 4.720306513409962,
+    "conviction": 1.2832411728896105,
+    "leverage": 0.04414148148928993
+  },
+  {
+    "rule": "['Tested_PCT'] => ['Potassium=Potassium_low', 'PCT=PCT_non_zero']",
+    "support": 0.1185064935064935,
+    "confidence": 0.5593869731800767,
+    "lift": 4.720306513409962,
+    "conviction": 2.0006070016939588,
+    "leverage": 0.09340081590487434
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Potassium=Potassium_low', 'Tested_PCT']",
+    "support": 0.1185064935064935,
+    "confidence": 0.5593869731800767,
+    "lift": 4.720306513409962,
+    "conviction": 2.0006070016939588,
+    "leverage": 0.09340081590487434
+  },
+  {
+    "rule": "['PCT=PCT_non_zero'] => ['Tested_PCT', 'PT=PT_zero']",
+    "support": 0.11607142857142858,
+    "confidence": 0.5478927203065135,
+    "lift": 4.720306513409962,
+    "conviction": 1.9551301452784506,
+    "leverage": 0.09148162105751392
+  },
+  {
+    "rule": "['Tested_PCT'] => ['PCT=PCT_non_zero', 'PT=PT_zero']",
+    "support": 0.11607142857142858,
+    "confidence": 0.5478927203065135,
+    "lift": 4.720306513409962,
+    "conviction": 1.9551301452784506,
+    "leverage": 0.09148162105751392
+  },
+  {
+    "rule": "['Tested_PCT'] => ['Creatinine=Creatinine_high', 'PCT=PCT_non_zero']",
+    "support": 0.06737012987012987,
+    "confidence": 0.31800766283524906,
+    "lift": 4.7203065134099615,
+    "conviction": 1.3675078432803152,
+    "leverage": 0.05309772411030528
+  },
+  {
+    "rule": "['Creatinine=Creatinine_high', 'PCT=PCT_non_zero'] => ['Tested_PCT']",
+    "support": 0.06737012987012987,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.05309772411030528
+  },
+  {
+    "rule": "['Alive', 'PCT=PCT_non_zero'] => ['Tested_PCT']",
+    "support": 0.19074675324675325,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.15033692970990048
+  },
+  {
+    "rule": "['Creatinine=Creatinine_high', 'Tested_PCT'] => ['PCT=PCT_non_zero']",
+    "support": 0.06737012987012987,
+    "confidence": 1.0,
+    "lift": 4.7203065134099615,
+    "conviction": Infinity,
+    "leverage": 0.05309772411030528
+  }
+]

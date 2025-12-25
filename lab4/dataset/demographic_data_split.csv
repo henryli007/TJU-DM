@@ -1,0 +1,1733 @@
+﻿Patient Code,Age Group,Gender
+P 1,40-50 years,Female
+P 2,50-60 years,Male
+P 3,≥ 60 years,Male
+P 4,30-40 years,Male
+P 5,20-30 years,Male
+P 6,20-30 years,Male
+P 7,30-40 years,Female
+P 8,40-50 years,Female
+P 9,50-60 years,Female
+P 10,≥ 60 years,Female
+P 11,20-30 years,Female
+P 12,30-40 years,Female
+P 13,40-50 years,Female
+P 14,40-50 years,Male
+P 15,50-60 years,Female
+P 16,≥ 60 years,Female
+P 17,40-50 years,Male
+P 18,≥ 60 years,Female
+P 19,40-50 years,Male
+P 20,40-50 years,Female
+P 21,≥ 60 years,Female
+P 22,30-40 years,Male
+P 23,40-50 years,Male
+P 24,50-60 years,Female
+P 25,50-60 years,Male
+P 26,≥ 60 years,Female
+P 27,40-50 years,Female
+P 28,50-60 years,Female
+P 29,50-60 years,Female
+P 30,≥ 60 years,Female
+P 31,40-50 years,Female
+P 32,20-30 years,Female
+P 33,40-50 years,Female
+P 34,40-50 years,Female
+P 35,30-40 years,Female
+P 36,≥ 60 years,Male
+P 37,50-60 years,Male
+P 38,≥ 60 years,Female
+P 39,30-40 years,Female
+P 40,≥ 60 years,Female
+P 41,40-50 years,Male
+P 42,20-30 years,Male
+P 43,30-40 years,Male
+P 44,40-50 years,Male
+P 45,50-60 years,Male
+P 46,≥ 60 years,Male
+P 47,30-40 years,Male
+P 48,30-40 years,Male
+P 49,20-30 years,Male
+P 50,20-30 years,Female
+P 51,< 10 years,Male
+P 52,≥ 60 years,Male
+P 53,20-30 years,Male
+P 54,40-50 years,Male
+P 55,40-50 years,Male
+P 56,30-40 years,Male
+P 57,40-50 years,Male
+P 58,40-50 years,Male
+P 59,≥ 60 years,Male
+P 60,20-30 years,Male
+P 61,30-40 years,Male
+P 62,20-30 years,Female
+P 63,≥ 60 years,Male
+P 64,40-50 years,Female
+P 65,≥ 60 years,Female
+P 66,40-50 years,Male
+P 67,30-40 years,Male
+P 68,40-50 years,Male
+P 69,50-60 years,Male
+P 70,≥ 60 years,Male
+P 71,30-40 years,Female
+P 72,20-30 years,Female
+P 73,30-40 years,Male
+P 74,40-50 years,Female
+P 75,≥ 60 years,Female
+P 76,20-30 years,Female
+P 77,40-50 years,Female
+P 78,50-60 years,Female
+P 79,≥ 60 years,Female
+P 80,≥ 60 years,Male
+P 81,30-40 years,Female
+P 82,40-50 years,Female
+P 83,≥ 60 years,Female
+P 84,≥ 60 years,Female
+P 85,20-30 years,Female
+P 86,30-40 years,Male
+P 87,40-50 years,Female
+P 88,50-60 years,Female
+P 89,≥ 60 years,Female
+P 90,40-50 years,Male
+P 91,40-50 years,Male
+P 92,50-60 years,Female
+P 93,20-30 years,Female
+P 94,10-20 years,Male
+P 95,≥ 60 years,Male
+P 96,50-60 years,Male
+P 97,40-50 years,Male
+P 98,40-50 years,Female
+P 99,20-30 years,Female
+P 100,≥ 60 years,Male
+P 101,50-60 years,Male
+P 102,30-40 years,Male
+P 103,30-40 years,Male
+P 104,20-30 years,Female
+P 105,50-60 years,Female
+P 106,10-20 years,Male
+P 107,40-50 years,Male
+P 108,40-50 years,Male
+P 109,40-50 years,Male
+P 110,20-30 years,Male
+P 111,≥ 60 years,Female
+P 112,20-30 years,Female
+P 113,40-50 years,Male
+P 114,40-50 years,Male
+P 115,50-60 years,Female
+P 116,20-30 years,Female
+P 117,30-40 years,Female
+P 118,30-40 years,Female
+P 119,50-60 years,Female
+P 120,50-60 years,Female
+P 121,30-40 years,Female
+P 122,≥ 60 years,Male
+P 123,30-40 years,Male
+P 124,40-50 years,Female
+P 125,40-50 years,Male
+P 126,30-40 years,Female
+P 127,30-40 years,Female
+P 128,40-50 years,Female
+P 129,50-60 years,Female
+P 130,≥ 60 years,Female
+P 131,50-60 years,Female
+P 132,20-30 years,Female
+P 133,30-40 years,Female
+P 134,40-50 years,Female
+P 135,30-40 years,Female
+P 136,50-60 years,Male
+P 137,40-50 years,Female
+P 138,30-40 years,Female
+P 139,20-30 years,Female
+P 140,30-40 years,Female
+P 141,≥ 60 years,Female
+P 142,40-50 years,Female
+P 143,50-60 years,Female
+P 144,≥ 60 years,Female
+P 145,30-40 years,Male
+P 146,40-50 years,Male
+P 147,≥ 60 years,Male
+P 148,20-30 years,Male
+P 149,50-60 years,Male
+P 150,40-50 years,Female
+P 151,≥ 60 years,Female
+P 152,≥ 60 years,Male
+P 153,40-50 years,Male
+P 154,30-40 years,Female
+P 155,40-50 years,Male
+P 156,20-30 years,Male
+P 157,30-40 years,Male
+P 158,20-30 years,Male
+P 159,40-50 years,Female
+P 160,50-60 years,Female
+P 161,40-50 years,Female
+P 162,≥ 60 years,Female
+P 163,≥ 60 years,Male
+P 164,≥ 60 years,Male
+P 165,≥ 60 years,Male
+P 166,40-50 years,Male
+P 167,≥ 60 years,Male
+P 168,30-40 years,Male
+P 169,≥ 60 years,Female
+P 170,50-60 years,Male
+P 171,≥ 60 years,Male
+P 172,50-60 years,Female
+P 173,30-40 years,Female
+P 174,40-50 years,Female
+P 175,≥ 60 years,Female
+P 176,50-60 years,Female
+P 177,20-30 years,Male
+P 178,20-30 years,Male
+P 179,50-60 years,Male
+P 180,20-30 years,Male
+P 181,50-60 years,Male
+P 182,20-30 years,Male
+P 183,40-50 years,Male
+P 184,50-60 years,Female
+P 185,30-40 years,Male
+P 186,40-50 years,Male
+P 187,20-30 years,Male
+P 188,20-30 years,Female
+P 189,30-40 years,Female
+P 190,40-50 years,Female
+P 191,30-40 years,Male
+P 192,50-60 years,Female
+P 193,≥ 60 years,Female
+P 194,40-50 years,Female
+P 195,≥ 60 years,Female
+P 196,50-60 years,Male
+P 197,50-60 years,Female
+P 198,40-50 years,Female
+P 199,20-30 years,Female
+P 200,40-50 years,Female
+P 201,≥ 60 years,Male
+P 202,≥ 60 years,Male
+P 203,≥ 60 years,Female
+P 204,≥ 60 years,Female
+P 205,20-30 years,Female
+P 206,≥ 60 years,Male
+P 207,50-60 years,Male
+P 208,≥ 60 years,Female
+P 209,≥ 60 years,Male
+P 210,≥ 60 years,Male
+P 211,30-40 years,Female
+P 212,30-40 years,Male
+P 213,40-50 years,Female
+P 214,20-30 years,Male
+P 215,40-50 years,Male
+P 216,40-50 years,Male
+P 217,50-60 years,Male
+P 218,30-40 years,Female
+P 219,≥ 60 years,Female
+P 220,30-40 years,Male
+P 221,10-20 years,Male
+P 222,40-50 years,Male
+P 223,≥ 60 years,Male
+P 224,20-30 years,Female
+P 225,≥ 60 years,Male
+P 226,30-40 years,Male
+P 227,40-50 years,Female
+P 228,50-60 years,Male
+P 229,50-60 years,Male
+P 230,20-30 years,Male
+P 231,50-60 years,Male
+P 232,50-60 years,Female
+P 233,40-50 years,Female
+P 234,20-30 years,Female
+P 235,≥ 60 years,Male
+P 236,≥ 60 years,Male
+P 237,40-50 years,Male
+P 238,≥ 60 years,Male
+P 239,30-40 years,Male
+P 240,20-30 years,Male
+P 241,40-50 years,Male
+P 242,50-60 years,Male
+P 243,40-50 years,Female
+P 244,30-40 years,Female
+P 245,≥ 60 years,Male
+P 246,20-30 years,Male
+P 247,≥ 60 years,Male
+P 248,40-50 years,Male
+P 249,30-40 years,Male
+P 250,≥ 60 years,Male
+P 251,50-60 years,Male
+P 252,50-60 years,Male
+P 253,50-60 years,Female
+P 254,50-60 years,Female
+P 255,40-50 years,Female
+P 256,30-40 years,Male
+P 257,50-60 years,Male
+P 258,50-60 years,Male
+P 259,40-50 years,Male
+P 260,50-60 years,Male
+P 261,50-60 years,Male
+P 262,≥ 60 years,Male
+P 263,20-30 years,Male
+P 264,50-60 years,Male
+P 265,< 10 years,Male
+P 266,20-30 years,Male
+P 267,40-50 years,Male
+P 268,50-60 years,Male
+P 269,≥ 60 years,Male
+P 270,≥ 60 years,Male
+P 271,≥ 60 years,Female
+P 272,30-40 years,Male
+P 273,≥ 60 years,Male
+P 274,≥ 60 years,Male
+P 275,20-30 years,Male
+P 276,20-30 years,Male
+P 277,≥ 60 years,Male
+P 278,20-30 years,Male
+P 279,20-30 years,Male
+P 280,50-60 years,Male
+P 281,40-50 years,Male
+P 282,20-30 years,Male
+P 283,40-50 years,Male
+P 284,30-40 years,Male
+P 285,≥ 60 years,Male
+P 286,40-50 years,Male
+P 287,40-50 years,Male
+P 288,20-30 years,Male
+P 289,30-40 years,Male
+P 290,50-60 years,Male
+P 291,40-50 years,Male
+P 292,50-60 years,Male
+P 293,≥ 60 years,Male
+P 294,40-50 years,Male
+P 295,30-40 years,Male
+P 296,20-30 years,Female
+P 297,30-40 years,Female
+P 298,40-50 years,Male
+P 299,40-50 years,Male
+P 300,50-60 years,Male
+P 301,20-30 years,Male
+P 302,20-30 years,Female
+P 303,50-60 years,Male
+P 304,20-30 years,Male
+P 305,40-50 years,Male
+P 306,20-30 years,Male
+P 307,40-50 years,Male
+P 308,≥ 60 years,Male
+P 309,30-40 years,Male
+P 310,30-40 years,Male
+P 311,≥ 60 years,Male
+P 312,≥ 60 years,Male
+P 313,40-50 years,Male
+P 314,≥ 60 years,Male
+P 315,≥ 60 years,Male
+P 316,30-40 years,Male
+P 317,30-40 years,Male
+P 318,30-40 years,Female
+P 319,30-40 years,Male
+P 320,20-30 years,Male
+P 321,50-60 years,Male
+P 322,50-60 years,Male
+P 323,20-30 years,Male
+P 324,30-40 years,Male
+P 325,50-60 years,Male
+P 326,40-50 years,Male
+P 327,≥ 60 years,Male
+P 328,40-50 years,Male
+P 329,30-40 years,Male
+P 330,40-50 years,Male
+P 331,50-60 years,Male
+P 332,≥ 60 years,Female
+P 333,30-40 years,Female
+P 334,50-60 years,Male
+P 335,40-50 years,Female
+P 336,≥ 60 years,Female
+P 337,50-60 years,Male
+P 338,20-30 years,Male
+P 339,≥ 60 years,Female
+P 340,20-30 years,Male
+P 341,20-30 years,Male
+P 342,40-50 years,Male
+P 343,50-60 years,Male
+P 344,30-40 years,Male
+P 345,30-40 years,Female
+P 346,≥ 60 years,Male
+P 347,40-50 years,Male
+P 348,50-60 years,Male
+P 349,30-40 years,Female
+P 350,50-60 years,Male
+P 351,≥ 60 years,Female
+P 352,40-50 years,Male
+P 353,40-50 years,Male
+P 354,50-60 years,Male
+P 355,10-20 years,Male
+P 356,50-60 years,Male
+P 357,50-60 years,Female
+P 358,30-40 years,Female
+P 359,30-40 years,Male
+P 360,40-50 years,Male
+P 361,50-60 years,Male
+P 362,≥ 60 years,Male
+P 363,40-50 years,Male
+P 364,≥ 60 years,Female
+P 365,20-30 years,Male
+P 366,20-30 years,Female
+P 367,30-40 years,Male
+P 368,30-40 years,Female
+P 369,40-50 years,Male
+P 370,20-30 years,Male
+P 371,50-60 years,Male
+P 372,40-50 years,Male
+P 373,40-50 years,Male
+P 374,20-30 years,Male
+P 375,≥ 60 years,Female
+P 376,10-20 years,Female
+P 377,20-30 years,Female
+P 378,40-50 years,Female
+P 379,40-50 years,Female
+P 380,50-60 years,Female
+P 381,≥ 60 years,Female
+P 382,50-60 years,Male
+P 383,50-60 years,Male
+P 384,30-40 years,Male
+P 385,40-50 years,Male
+P 386,50-60 years,Male
+P 387,50-60 years,Male
+P 388,40-50 years,Female
+P 389,40-50 years,Female
+P 390,≥ 60 years,Female
+P 391,20-30 years,Female
+P 392,20-30 years,Female
+P 393,50-60 years,Female
+P 394,40-50 years,Female
+P 395,30-40 years,Male
+P 396,30-40 years,Male
+P 397,50-60 years,Male
+P 398,30-40 years,Male
+P 399,40-50 years,Female
+P 400,40-50 years,Female
+P 401,30-40 years,Male
+P 402,30-40 years,Female
+P 403,20-30 years,Male
+P 404,30-40 years,Male
+P 405,50-60 years,Male
+P 406,20-30 years,Female
+P 407,≥ 60 years,Male
+P 408,30-40 years,Male
+P 409,50-60 years,Male
+P 410,20-30 years,Male
+P 411,30-40 years,Male
+P 412,≥ 60 years,Male
+P 413,50-60 years,Male
+P 414,≥ 60 years,Male
+P 415,20-30 years,Female
+P 416,50-60 years,Male
+P 417,40-50 years,Female
+P 418,30-40 years,Male
+P 419,30-40 years,Male
+P 420,40-50 years,Male
+P 421,20-30 years,Male
+P 422,50-60 years,Male
+P 423,50-60 years,Male
+P 424,30-40 years,Male
+P 425,20-30 years,Female
+P 426,20-30 years,Female
+P 427,30-40 years,Male
+P 428,30-40 years,Male
+P 429,40-50 years,Male
+P 430,40-50 years,Male
+P 431,40-50 years,Male
+P 432,40-50 years,Male
+P 433,20-30 years,Female
+P 434,≥ 60 years,Male
+P 435,50-60 years,Female
+P 436,30-40 years,Male
+P 437,30-40 years,Male
+P 438,30-40 years,Male
+P 439,30-40 years,Male
+P 440,≥ 60 years,Male
+P 441,≥ 60 years,Female
+P 442,≥ 60 years,Male
+P 443,20-30 years,Male
+P 444,20-30 years,Male
+P 445,30-40 years,Male
+P 446,30-40 years,Male
+P 447,50-60 years,Male
+P 448,20-30 years,Male
+P 449,≥ 60 years,Male
+P 450,20-30 years,Male
+P 451,≥ 60 years,Female
+P 452,20-30 years,Male
+P 453,40-50 years,Female
+P 454,20-30 years,Female
+P 455,20-30 years,Female
+P 456,≥ 60 years,Female
+P 457,40-50 years,Male
+P 458,20-30 years,Male
+P 459,40-50 years,Male
+P 460,30-40 years,Male
+P 461,20-30 years,Male
+P 462,50-60 years,Female
+P 463,≥ 60 years,Male
+P 464,40-50 years,Male
+P 465,≥ 60 years,Male
+P 466,40-50 years,Male
+P 467,≥ 60 years,Male
+P 468,≥ 60 years,Male
+P 469,40-50 years,Female
+P 470,40-50 years,Female
+P 471,50-60 years,Female
+P 472,50-60 years,Male
+P 473,40-50 years,Male
+P 474,20-30 years,Male
+P 475,40-50 years,Female
+P 476,50-60 years,Female
+P 477,30-40 years,Male
+P 478,40-50 years,Male
+P 479,20-30 years,Female
+P 480,50-60 years,Male
+P 481,≥ 60 years,Male
+P 482,30-40 years,Male
+P 483,30-40 years,Female
+P 484,20-30 years,Female
+P 485,20-30 years,Female
+P 486,30-40 years,Female
+P 487,40-50 years,Female
+P 488,40-50 years,Female
+P 489,50-60 years,Female
+P 490,30-40 years,Female
+P 491,≥ 60 years,Female
+P 492,20-30 years,Female
+P 493,30-40 years,Female
+P 494,50-60 years,Female
+P 495,≥ 60 years,Female
+P 496,40-50 years,Male
+P 497,50-60 years,Male
+P 498,≥ 60 years,Male
+P 499,30-40 years,Male
+P 500,40-50 years,Male
+P 501,40-50 years,Female
+P 502,≥ 60 years,Male
+P 503,30-40 years,Female
+P 504,30-40 years,Female
+P 505,50-60 years,Female
+P 506,≥ 60 years,Female
+P 507,30-40 years,Male
+P 508,40-50 years,Male
+P 509,50-60 years,Male
+P 510,30-40 years,Male
+P 511,50-60 years,Male
+P 512,10-20 years,Male
+P 513,≥ 60 years,Male
+P 514,30-40 years,Male
+P 515,40-50 years,Male
+P 516,50-60 years,Male
+P 517,≥ 60 years,Male
+P 518,50-60 years,Male
+P 519,≥ 60 years,Female
+P 520,40-50 years,Female
+P 521,50-60 years,Female
+P 522,50-60 years,Male
+P 523,30-40 years,Female
+P 524,40-50 years,Male
+P 525,20-30 years,Male
+P 526,20-30 years,Male
+P 527,50-60 years,Male
+P 528,40-50 years,Male
+P 529,40-50 years,Male
+P 530,20-30 years,Male
+P 531,40-50 years,Female
+P 532,20-30 years,Male
+P 533,50-60 years,Male
+P 534,20-30 years,Female
+P 535,30-40 years,Male
+P 536,40-50 years,Male
+P 537,50-60 years,Male
+P 538,50-60 years,Male
+P 539,50-60 years,Male
+P 540,50-60 years,Male
+P 541,50-60 years,Male
+P 542,40-50 years,Male
+P 543,50-60 years,Male
+P 544,50-60 years,Male
+P 545,30-40 years,Female
+P 546,20-30 years,Male
+P 547,≥ 60 years,Male
+P 548,≥ 60 years,Male
+P 549,30-40 years,Female
+P 550,40-50 years,Female
+P 551,50-60 years,Female
+P 552,≥ 60 years,Male
+P 553,≥ 60 years,Male
+P 554,30-40 years,Male
+P 555,≥ 60 years,Male
+P 556,30-40 years,Male
+P 557,50-60 years,Male
+P 558,10-20 years,Female
+P 559,40-50 years,Female
+P 560,≥ 60 years,Female
+P 561,40-50 years,Male
+P 562,30-40 years,Male
+P 563,40-50 years,Male
+P 564,30-40 years,Female
+P 565,40-50 years,Male
+P 566,20-30 years,Male
+P 567,20-30 years,Male
+P 568,20-30 years,Male
+P 569,30-40 years,Female
+P 570,50-60 years,Male
+P 571,≥ 60 years,Female
+P 572,50-60 years,Female
+P 573,40-50 years,Female
+P 574,20-30 years,Female
+P 575,50-60 years,Female
+P 576,≥ 60 years,Male
+P 577,30-40 years,Male
+P 578,20-30 years,Female
+P 579,20-30 years,Male
+P 580,40-50 years,Female
+P 581,50-60 years,Female
+P 582,≥ 60 years,Female
+P 583,30-40 years,Female
+P 584,≥ 60 years,Male
+P 585,40-50 years,Female
+P 586,50-60 years,Female
+P 587,≥ 60 years,Female
+P 588,≥ 60 years,Male
+P 589,40-50 years,Male
+P 590,20-30 years,Male
+P 591,≥ 60 years,Male
+P 592,30-40 years,Male
+P 593,20-30 years,Male
+P 594,40-50 years,Male
+P 595,10-20 years,Female
+P 596,30-40 years,Female
+P 597,30-40 years,Female
+P 598,40-50 years,Female
+P 599,30-40 years,Female
+P 600,≥ 60 years,Female
+P 601,40-50 years,Male
+P 602,30-40 years,Male
+P 603,30-40 years,Male
+P 604,≥ 60 years,Male
+P 605,20-30 years,Female
+P 606,20-30 years,Female
+P 607,30-40 years,Female
+P 608,40-50 years,Female
+P 609,≥ 60 years,Female
+P 610,≥ 60 years,Female
+P 611,≥ 60 years,Male
+P 612,40-50 years,Female
+P 613,50-60 years,Male
+P 614,20-30 years,Male
+P 615,30-40 years,Male
+P 616,≥ 60 years,Male
+P 617,30-40 years,Male
+P 618,20-30 years,Male
+P 619,30-40 years,Female
+P 620,20-30 years,Male
+P 621,30-40 years,Male
+P 622,40-50 years,Female
+P 623,30-40 years,Female
+P 624,50-60 years,Male
+P 625,50-60 years,Female
+P 626,40-50 years,Female
+P 627,30-40 years,Female
+P 628,30-40 years,Female
+P 629,20-30 years,Female
+P 630,≥ 60 years,Male
+P 631,40-50 years,Female
+P 632,20-30 years,Female
+P 633,30-40 years,Female
+P 634,30-40 years,Male
+P 635,40-50 years,Female
+P 636,50-60 years,Female
+P 637,≥ 60 years,Female
+P 638,20-30 years,Female
+P 639,40-50 years,Male
+P 640,≥ 60 years,Male
+P 641,20-30 years,Male
+P 642,30-40 years,Male
+P 643,≥ 60 years,Male
+P 644,20-30 years,Male
+P 645,20-30 years,Male
+P 646,≥ 60 years,Male
+P 647,≥ 60 years,Male
+P 648,≥ 60 years,Male
+P 649,20-30 years,Male
+P 650,30-40 years,Male
+P 651,20-30 years,Male
+P 652,20-30 years,Male
+P 653,30-40 years,Male
+P 654,30-40 years,Male
+P 655,≥ 60 years,Male
+P 656,20-30 years,Male
+P 657,50-60 years,Male
+P 658,≥ 60 years,Male
+P 659,30-40 years,Female
+P 660,20-30 years,Male
+P 661,20-30 years,Female
+P 662,30-40 years,Male
+P 663,20-30 years,Female
+P 664,30-40 years,Female
+P 665,30-40 years,Male
+P 666,40-50 years,Male
+P 667,20-30 years,Male
+P 668,≥ 60 years,Male
+P 669,20-30 years,Male
+P 670,50-60 years,Male
+P 671,50-60 years,Male
+P 672,30-40 years,Male
+P 673,30-40 years,Male
+P 674,40-50 years,Male
+P 675,50-60 years,Male
+P 676,≥ 60 years,Male
+P 677,40-50 years,Male
+P 678,20-30 years,Female
+P 679,30-40 years,Male
+P 680,50-60 years,Male
+P 681,≥ 60 years,Male
+P 682,≥ 60 years,Female
+P 683,40-50 years,Male
+P 684,≥ 60 years,Male
+P 685,30-40 years,Male
+P 686,40-50 years,Male
+P 687,≥ 60 years,Male
+P 688,40-50 years,Male
+P 689,30-40 years,Male
+P 690,≥ 60 years,Male
+P 691,20-30 years,Female
+P 692,30-40 years,Male
+P 693,40-50 years,Male
+P 694,30-40 years,Male
+P 695,20-30 years,Male
+P 696,30-40 years,Male
+P 697,40-50 years,Male
+P 698,50-60 years,Male
+P 699,30-40 years,Male
+P 700,50-60 years,Male
+P 701,20-30 years,Male
+P 702,30-40 years,Male
+P 703,40-50 years,Male
+P 704,50-60 years,Male
+P 705,≥ 60 years,Male
+P 706,50-60 years,Male
+P 707,40-50 years,Female
+P 708,40-50 years,Female
+P 709,40-50 years,Female
+P 710,40-50 years,Male
+P 711,50-60 years,Male
+P 712,≥ 60 years,Male
+P 713,40-50 years,Male
+P 714,50-60 years,Male
+P 715,≥ 60 years,Male
+P 716,20-30 years,Male
+P 717,30-40 years,Male
+P 718,40-50 years,Male
+P 719,50-60 years,Male
+P 720,≥ 60 years,Male
+P 721,20-30 years,Male
+P 722,40-50 years,Male
+P 723,20-30 years,Male
+P 724,20-30 years,Male
+P 725,50-60 years,Male
+P 726,≥ 60 years,Male
+P 727,≥ 60 years,Female
+P 728,30-40 years,Female
+P 729,50-60 years,Male
+P 730,≥ 60 years,Female
+P 731,20-30 years,Female
+P 732,20-30 years,Female
+P 733,40-50 years,Female
+P 734,≥ 60 years,Male
+P 735,30-40 years,Female
+P 736,50-60 years,Male
+P 737,50-60 years,Female
+P 738,20-30 years,Female
+P 739,40-50 years,Female
+P 740,≥ 60 years,Male
+P 741,30-40 years,Male
+P 742,50-60 years,Male
+P 743,≥ 60 years,Male
+P 744,≥ 60 years,Male
+P 745,30-40 years,Male
+P 746,40-50 years,Male
+P 747,50-60 years,Male
+P 748,≥ 60 years,Male
+P 749,40-50 years,Male
+P 750,≥ 60 years,Female
+P 751,20-30 years,Male
+P 752,30-40 years,Male
+P 753,≥ 60 years,Male
+P 754,40-50 years,Female
+P 755,40-50 years,Female
+P 756,40-50 years,Male
+P 757,50-60 years,Female
+P 758,≥ 60 years,Female
+P 759,30-40 years,Female
+P 760,40-50 years,Female
+P 761,50-60 years,Female
+P 762,40-50 years,Female
+P 763,40-50 years,Female
+P 764,20-30 years,Female
+P 765,20-30 years,Female
+P 766,20-30 years,Male
+P 767,50-60 years,Male
+P 768,20-30 years,Male
+P 769,20-30 years,Male
+P 770,≥ 60 years,Male
+P 771,≥ 60 years,Male
+P 772,20-30 years,Male
+P 773,≥ 60 years,Male
+P 774,20-30 years,Male
+P 775,30-40 years,Male
+P 776,≥ 60 years,Male
+P 777,30-40 years,Male
+P 778,20-30 years,Male
+P 779,40-50 years,Male
+P 780,40-50 years,Female
+P 781,20-30 years,Female
+P 782,30-40 years,Male
+P 783,50-60 years,Male
+P 784,20-30 years,Male
+P 785,20-30 years,Male
+P 786,50-60 years,Female
+P 787,≥ 60 years,Male
+P 788,≥ 60 years,Female
+P 789,30-40 years,Female
+P 790,20-30 years,Male
+P 791,≥ 60 years,Female
+P 792,40-50 years,Female
+P 793,50-60 years,Female
+P 794,≥ 60 years,Female
+P 795,50-60 years,Female
+P 796,20-30 years,Female
+P 797,≥ 60 years,Female
+P 798,40-50 years,Female
+P 799,50-60 years,Female
+P 800,40-50 years,Female
+P 801,30-40 years,Male
+P 802,50-60 years,Female
+P 803,≥ 60 years,Female
+P 804,20-30 years,Female
+P 805,50-60 years,Female
+P 806,30-40 years,Female
+P 807,50-60 years,Male
+P 808,40-50 years,Male
+P 809,50-60 years,Female
+P 810,40-50 years,Male
+P 811,≥ 60 years,Male
+P 812,50-60 years,Male
+P 813,40-50 years,Male
+P 814,≥ 60 years,Male
+P 815,40-50 years,Female
+P 816,50-60 years,Male
+P 817,20-30 years,Male
+P 818,30-40 years,Male
+P 819,≥ 60 years,Male
+P 820,40-50 years,Female
+P 821,40-50 years,Female
+P 822,40-50 years,Male
+P 823,≥ 60 years,Male
+P 824,50-60 years,Male
+P 825,50-60 years,Male
+P 826,20-30 years,Female
+P 827,40-50 years,Female
+P 828,50-60 years,Female
+P 829,40-50 years,Female
+P 830,50-60 years,Female
+P 831,≥ 60 years,Male
+P 832,50-60 years,Male
+P 833,≥ 60 years,Male
+P 834,50-60 years,Male
+P 835,50-60 years,Male
+P 836,≥ 60 years,Male
+P 837,20-30 years,Male
+P 838,40-50 years,Female
+P 839,30-40 years,Male
+P 840,≥ 60 years,Female
+P 841,20-30 years,Female
+P 842,30-40 years,Female
+P 843,≥ 60 years,Female
+P 844,≥ 60 years,Female
+P 845,20-30 years,Male
+P 846,50-60 years,Male
+P 847,30-40 years,Male
+P 848,≥ 60 years,Male
+P 849,40-50 years,Male
+P 850,≥ 60 years,Male
+P 851,30-40 years,Male
+P 852,40-50 years,Male
+P 853,50-60 years,Male
+P 854,≥ 60 years,Male
+P 855,40-50 years,Male
+P 856,50-60 years,Male
+P 857,20-30 years,Female
+P 858,≥ 60 years,Female
+P 859,50-60 years,Female
+P 860,20-30 years,Female
+P 861,30-40 years,Male
+P 862,40-50 years,Male
+P 863,50-60 years,Male
+P 864,50-60 years,Female
+P 865,≥ 60 years,Female
+P 866,30-40 years,Female
+P 867,≥ 60 years,Male
+P 868,40-50 years,Female
+P 869,≥ 60 years,Female
+P 870,50-60 years,Male
+P 871,20-30 years,Female
+P 872,30-40 years,Female
+P 873,30-40 years,Female
+P 874,30-40 years,Female
+P 875,40-50 years,Female
+P 876,50-60 years,Female
+P 877,≥ 60 years,Female
+P 878,50-60 years,Male
+P 879,30-40 years,Female
+P 880,40-50 years,Male
+P 881,50-60 years,Male
+P 882,30-40 years,Male
+P 883,40-50 years,Male
+P 884,50-60 years,Female
+P 885,50-60 years,Female
+P 886,20-30 years,Male
+P 887,40-50 years,Male
+P 888,20-30 years,Male
+P 889,30-40 years,Female
+P 890,≥ 60 years,Male
+P 891,20-30 years,Male
+P 892,≥ 60 years,Male
+P 893,30-40 years,Male
+P 894,40-50 years,Male
+P 895,≥ 60 years,Male
+P 896,20-30 years,Male
+P 897,40-50 years,Female
+P 898,20-30 years,Female
+P 899,30-40 years,Female
+P 900,20-30 years,Male
+P 901,≥ 60 years,Female
+P 902,10-20 years,Female
+P 903,50-60 years,Female
+P 904,50-60 years,Female
+P 905,40-50 years,Male
+P 906,40-50 years,Male
+P 907,≥ 60 years,Male
+P 908,50-60 years,Male
+P 909,50-60 years,Male
+P 910,30-40 years,Male
+P 911,40-50 years,Male
+P 912,≥ 60 years,Male
+P 913,50-60 years,Male
+P 914,20-30 years,Male
+P 915,20-30 years,Male
+P 916,50-60 years,Male
+P 917,40-50 years,Female
+P 918,≥ 60 years,Female
+P 919,≥ 60 years,Male
+P 920,30-40 years,Female
+P 921,50-60 years,Male
+P 922,50-60 years,Female
+P 923,30-40 years,Male
+P 924,20-30 years,Male
+P 925,20-30 years,Male
+P 926,30-40 years,Male
+P 927,20-30 years,Male
+P 928,10-20 years,Male
+P 929,50-60 years,Male
+P 930,≥ 60 years,Male
+P 931,≥ 60 years,Male
+P 932,30-40 years,Male
+P 933,40-50 years,Male
+P 934,50-60 years,Male
+P 935,50-60 years,Male
+P 936,20-30 years,Male
+P 937,20-30 years,Male
+P 938,30-40 years,Male
+P 939,40-50 years,Male
+P 940,50-60 years,Male
+P 941,≥ 60 years,Male
+P 942,20-30 years,Male
+P 943,40-50 years,Female
+P 944,20-30 years,Female
+P 945,≥ 60 years,Male
+P 946,20-30 years,Female
+P 947,20-30 years,Female
+P 948,10-20 years,Female
+P 949,≥ 60 years,Female
+P 950,20-30 years,Male
+P 951,50-60 years,Male
+P 952,20-30 years,Male
+P 953,50-60 years,Male
+P 954,40-50 years,Male
+P 955,20-30 years,Male
+P 956,≥ 60 years,Male
+P 957,30-40 years,Male
+P 958,40-50 years,Male
+P 959,40-50 years,Male
+P 960,≥ 60 years,Female
+P 961,≥ 60 years,Female
+P 962,20-30 years,Male
+P 963,≥ 60 years,Male
+P 964,40-50 years,Male
+P 965,50-60 years,Male
+P 966,40-50 years,Male
+P 967,50-60 years,Female
+P 968,50-60 years,Male
+P 969,40-50 years,Male
+P 970,40-50 years,Male
+P 971,≥ 60 years,Male
+P 972,30-40 years,Male
+P 973,40-50 years,Male
+P 974,≥ 60 years,Male
+P 975,50-60 years,Male
+P 976,≥ 60 years,Male
+P 977,30-40 years,Male
+P 978,30-40 years,Male
+P 979,30-40 years,Male
+P 980,30-40 years,Female
+P 981,50-60 years,Male
+P 982,20-30 years,Male
+P 983,30-40 years,Male
+P 984,20-30 years,Female
+P 985,30-40 years,Male
+P 986,20-30 years,Male
+P 987,20-30 years,Female
+P 988,20-30 years,Female
+P 989,50-60 years,Male
+P 990,50-60 years,Male
+P 991,50-60 years,Male
+P 992,30-40 years,Male
+P 993,40-50 years,Male
+P 994,50-60 years,Male
+P 995,≥ 60 years,Male
+P 996,40-50 years,Female
+P 997,≥ 60 years,Female
+P 998,30-40 years,Female
+P 999,50-60 years,Male
+P 1000,≥ 60 years,Male
+P 1001,≥ 60 years,Male
+P 1002,50-60 years,Male
+P 1003,≥ 60 years,Male
+P 1004,40-50 years,Male
+P 1005,≥ 60 years,Male
+P 1006,50-60 years,Male
+P 1007,20-30 years,Female
+P 1008,40-50 years,Male
+P 1009,20-30 years,Male
+P 1010,≥ 60 years,Female
+P 1011,30-40 years,Male
+P 1012,50-60 years,Male
+P 1013,50-60 years,Male
+P 1014,40-50 years,Male
+P 1015,30-40 years,Male
+P 1016,20-30 years,Male
+P 1017,30-40 years,Female
+P 1018,≥ 60 years,Male
+P 1019,40-50 years,Male
+P 1020,≥ 60 years,Male
+P 1021,≥ 60 years,Male
+P 1022,50-60 years,Male
+P 1023,50-60 years,Female
+P 1024,≥ 60 years,Male
+P 1025,≥ 60 years,Male
+P 1026,50-60 years,Male
+P 1027,20-30 years,Male
+P 1028,30-40 years,Male
+P 1029,≥ 60 years,Male
+P 1030,40-50 years,Male
+P 1031,50-60 years,Male
+P 1032,≥ 60 years,Male
+P 1033,40-50 years,Male
+P 1034,≥ 60 years,Female
+P 1035,40-50 years,Male
+P 1036,≥ 60 years,Male
+P 1037,50-60 years,Male
+P 1038,40-50 years,Male
+P 1039,50-60 years,Male
+P 1040,50-60 years,Male
+P 1041,30-40 years,Male
+P 1042,50-60 years,Male
+P 1043,30-40 years,Male
+P 1044,30-40 years,Male
+P 1045,20-30 years,Female
+P 1046,50-60 years,Male
+P 1047,20-30 years,Male
+P 1048,30-40 years,Male
+P 1049,50-60 years,Male
+P 1050,≥ 60 years,Male
+P 1051,30-40 years,Male
+P 1052,50-60 years,Male
+P 1053,20-30 years,Male
+P 1054,30-40 years,Male
+P 1055,20-30 years,Male
+P 1056,40-50 years,Female
+P 1057,30-40 years,Female
+P 1058,40-50 years,Male
+P 1059,50-60 years,Female
+P 1060,50-60 years,Male
+P 1061,≥ 60 years,Male
+P 1062,20-30 years,Male
+P 1063,30-40 years,Male
+P 1064,40-50 years,Male
+P 1065,50-60 years,Male
+P 1066,≥ 60 years,Male
+P 1067,50-60 years,Female
+P 1068,30-40 years,Female
+P 1069,≥ 60 years,Female
+P 1070,≥ 60 years,Female
+P 1071,≥ 60 years,Male
+P 1072,≥ 60 years,Male
+P 1073,30-40 years,Male
+P 1074,40-50 years,Male
+P 1075,40-50 years,Male
+P 1076,≥ 60 years,Male
+P 1077,≥ 60 years,Female
+P 1078,≥ 60 years,Female
+P 1079,≥ 60 years,Female
+P 1080,≥ 60 years,Female
+P 1081,20-30 years,Female
+P 1082,40-50 years,Female
+P 1083,≥ 60 years,Female
+P 1084,≥ 60 years,Female
+P 1085,≥ 60 years,Male
+P 1086,40-50 years,Male
+P 1087,20-30 years,Male
+P 1088,≥ 60 years,Male
+P 1089,50-60 years,Female
+P 1090,30-40 years,Female
+P 1091,≥ 60 years,Male
+P 1092,40-50 years,Male
+P 1093,30-40 years,Female
+P 1094,30-40 years,Female
+P 1095,≥ 60 years,Female
+P 1096,40-50 years,Female
+P 1097,30-40 years,Female
+P 1098,40-50 years,Female
+P 1099,≥ 60 years,Female
+P 1100,≥ 60 years,Female
+P 1101,20-30 years,Female
+P 1102,50-60 years,Male
+P 1103,≥ 60 years,Male
+P 1104,30-40 years,Male
+P 1105,40-50 years,Male
+P 1106,50-60 years,Male
+P 1107,≥ 60 years,Male
+P 1108,≥ 60 years,Female
+P 1109,40-50 years,Male
+P 1110,50-60 years,Female
+P 1111,20-30 years,Male
+P 1112,10-20 years,Female
+P 1113,20-30 years,Female
+P 1114,30-40 years,Female
+P 1115,40-50 years,Female
+P 1116,50-60 years,Female
+P 1117,≥ 60 years,Male
+P 1118,≥ 60 years,Male
+P 1119,30-40 years,Male
+P 1120,50-60 years,Male
+P 1121,30-40 years,Male
+P 1122,40-50 years,Male
+P 1123,50-60 years,Male
+P 1124,30-40 years,Male
+P 1125,20-30 years,Male
+P 1126,40-50 years,Female
+P 1127,30-40 years,Female
+P 1128,20-30 years,Male
+P 1129,30-40 years,Male
+P 1130,40-50 years,Male
+P 1131,50-60 years,Male
+P 1132,≥ 60 years,Male
+P 1133,20-30 years,Male
+P 1134,≥ 60 years,Male
+P 1135,30-40 years,Male
+P 1136,40-50 years,Male
+P 1137,50-60 years,Male
+P 1138,≥ 60 years,Male
+P 1139,≥ 60 years,Male
+P 1140,40-50 years,Male
+P 1141,30-40 years,Female
+P 1142,40-50 years,Female
+P 1143,≥ 60 years,Female
+P 1144,40-50 years,Female
+P 1145,50-60 years,Male
+P 1146,10-20 years,Male
+P 1147,40-50 years,Male
+P 1148,40-50 years,Male
+P 1149,40-50 years,Female
+P 1150,40-50 years,Male
+P 1151,20-30 years,Male
+P 1152,30-40 years,Male
+P 1153,20-30 years,Male
+P 1154,20-30 years,Male
+P 1155,20-30 years,Male
+P 1156,30-40 years,Male
+P 1157,30-40 years,Male
+P 1158,20-30 years,Male
+P 1159,20-30 years,Male
+P 1160,20-30 years,Male
+P 1161,≥ 60 years,Female
+P 1162,≥ 60 years,Male
+P 1163,≥ 60 years,Male
+P 1164,50-60 years,Female
+P 1165,20-30 years,Female
+P 1166,30-40 years,Female
+P 1167,30-40 years,Male
+P 1168,40-50 years,Female
+P 1169,40-50 years,Male
+P 1170,40-50 years,Male
+P 1171,20-30 years,Female
+P 1172,50-60 years,Female
+P 1173,40-50 years,Female
+P 1174,50-60 years,Female
+P 1175,30-40 years,Female
+P 1176,30-40 years,Female
+P 1177,50-60 years,Female
+P 1178,40-50 years,Male
+P 1179,≥ 60 years,Female
+P 1180,30-40 years,Female
+P 1181,10-20 years,Female
+P 1182,≥ 60 years,Male
+P 1183,10-20 years,Male
+P 1184,20-30 years,Male
+P 1185,30-40 years,Male
+P 1186,40-50 years,Male
+P 1187,50-60 years,Male
+P 1188,≥ 60 years,Male
+P 1189,≥ 60 years,Male
+P 1190,30-40 years,Male
+P 1191,50-60 years,Male
+P 1192,30-40 years,Male
+P 1193,≥ 60 years,Male
+P 1194,20-30 years,Male
+P 1195,50-60 years,Male
+P 1196,20-30 years,Male
+P 1197,≥ 60 years,Male
+P 1198,30-40 years,Male
+P 1199,40-50 years,Male
+P 1200,50-60 years,Female
+P 1201,50-60 years,Male
+P 1202,≥ 60 years,Male
+P 1203,40-50 years,Female
+P 1204,20-30 years,Female
+P 1205,40-50 years,Female
+P 1206,≥ 60 years,Female
+P 1207,40-50 years,Female
+P 1208,20-30 years,Female
+P 1209,40-50 years,Female
+P 1210,50-60 years,Female
+P 1211,30-40 years,Female
+P 1212,40-50 years,Male
+P 1213,≥ 60 years,Male
+P 1214,50-60 years,Male
+P 1215,≥ 60 years,Male
+P 1216,≥ 60 years,Male
+P 1217,40-50 years,Male
+P 1218,≥ 60 years,Male
+P 1219,≥ 60 years,Male
+P 1220,≥ 60 years,Male
+P 1221,10-20 years,Female
+P 1222,40-50 years,Male
+P 1223,20-30 years,Female
+P 1224,40-50 years,Female
+P 1225,40-50 years,Female
+P 1226,50-60 years,Male
+P 1227,40-50 years,Male
+P 1228,40-50 years,Female
+P 1229,30-40 years,Female
+P 1230,50-60 years,Male
+P 1231,40-50 years,Male
+P 1232,≥ 60 years,Male
+C 1,50-60 years,Female
+C 2,50-60 years,Male
+C 3,30-40 years,Female
+C 4,≥ 60 years,Female
+C 5,40-50 years,Male
+C 6,50-60 years,Male
+C 7,≥ 60 years,Male
+C 8,≥ 60 years,Male
+C 9,≥ 60 years,Male
+C 10,40-50 years,Male
+C 11,≥ 60 years,Male
+C 12,40-50 years,Male
+C 13,20-30 years,Male
+C 14,20-30 years,Male
+C 15,≥ 60 years,Male
+C 16,≥ 60 years,Female
+C 17,≥ 60 years,Male
+C 18,≥ 60 years,Male
+C 19,≥ 60 years,Male
+C 20,50-60 years,Male
+C 21,40-50 years,Female
+C 22,≥ 60 years,Male
+C 23,50-60 years,Male
+C 24,50-60 years,Male
+C 25,50-60 years,Male
+C 26,≥ 60 years,Female
+C 27,≥ 60 years,Male
+C 28,≥ 60 years,Male
+C 29,≥ 60 years,Male
+C 30,≥ 60 years,Male
+C 31,≥ 60 years,Male
+C 32,50-60 years,Male
+C 33,≥ 60 years,Female
+C 34,30-40 years,Male
+C 35,40-50 years,Male
+C 36,≥ 60 years,Male
+C 37,≥ 60 years,Male
+C 38,≥ 60 years,Female
+C 39,40-50 years,Female
+C 40,≥ 60 years,Male
+C 41,≥ 60 years,Male
+C 42,≥ 60 years,Male
+C 43,≥ 60 years,Male
+C 44,50-60 years,Female
+C 45,≥ 60 years,Female
+C 46,≥ 60 years,Male
+C 47,30-40 years,Male
+C 48,≥ 60 years,Male
+C 49,≥ 60 years,Male
+C 50,≥ 60 years,Male
+C 51,40-50 years,Male
+C 52,40-50 years,Male
+C 53,≥ 60 years,Female
+C 54,40-50 years,Male
+C 55,≥ 60 years,Male
+C 56,50-60 years,Female
+C 57,≥ 60 years,Male
+C 58,≥ 60 years,Female
+C 59,≥ 60 years,Female
+C 60,≥ 60 years,Female
+C 61,50-60 years,Male
+C 62,50-60 years,Male
+C 63,50-60 years,Male
+C 64,50-60 years,Female
+C 65,50-60 years,Female
+C 66,50-60 years,Male
+C 67,50-60 years,Male
+C 68,50-60 years,Male
+C 69,50-60 years,Male
+C 70,50-60 years,Female
+C 71,50-60 years,Female
+C 72,50-60 years,Male
+C 73,50-60 years,Female
+C 74,50-60 years,Male
+C 75,50-60 years,Male
+C 76,50-60 years,Male
+C 77,50-60 years,Female
+C 78,40-50 years,Male
+C 79,50-60 years,Male
+C 80,50-60 years,Male
+C 81,50-60 years,Female
+C 82,50-60 years,Male
+C 83,50-60 years,Male
+C 84,50-60 years,Female
+C 85,50-60 years,Male
+C 86,50-60 years,Male
+C 87,50-60 years,Female
+C 88,40-50 years,Male
+C 89,40-50 years,Female
+C 90,≥ 60 years,Male
+C 91,40-50 years,Male
+C 92,40-50 years,Male
+C 93,40-50 years,Male
+C 94,40-50 years,Male
+C 95,40-50 years,Female
+C 96,40-50 years,Male
+C 97,40-50 years,Female
+C 98,40-50 years,Male
+C 99,40-50 years,Male
+C 100,30-40 years,Female
+C 101,40-50 years,Male
+C 102,40-50 years,Male
+C 103,40-50 years,Female
+C 104,40-50 years,Male
+C 105,40-50 years,Female
+C 106,40-50 years,Male
+C 107,40-50 years,Male
+C 108,40-50 years,Female
+C 109,40-50 years,Female
+C 110,40-50 years,Male
+C 111,30-40 years,Female
+C 112,40-50 years,Male
+C 113,30-40 years,Female
+C 114,30-40 years,Male
+C 115,30-40 years,Male
+C 116,30-40 years,Female
+C 117,30-40 years,Male
+C 118,30-40 years,Male
+C 119,30-40 years,Male
+C 120,30-40 years,Male
+C 121,30-40 years,Male
+C 122,50-60 years,Male
+C 123,30-40 years,Female
+C 124,30-40 years,Male
+C 125,30-40 years,Female
+C 126,30-40 years,Male
+C 127,30-40 years,Male
+C 128,30-40 years,Female
+C 129,30-40 years,Female
+C 130,30-40 years,Male
+C 131,30-40 years,Male
+C 132,40-50 years,Female
+C 133,30-40 years,Male
+C 134,30-40 years,Female
+C 135,30-40 years,Male
+C 136,30-40 years,Male
+C 137,30-40 years,Male
+C 138,30-40 years,Male
+C 139,30-40 years,Male
+C 140,30-40 years,Female
+C 141,30-40 years,Female
+C 142,30-40 years,Male
+C 143,30-40 years,Female
+C 144,≥ 60 years,Male
+C 145,30-40 years,Female
+C 146,30-40 years,Male
+C 147,30-40 years,Female
+C 148,30-40 years,Female
+C 149,20-30 years,Female
+C 150,20-30 years,Female
+C 151,20-30 years,Male
+C 152,20-30 years,Male
+C 153,20-30 years,Female
+C 154,30-40 years,Female
+C 155,20-30 years,Female
+C 156,20-30 years,Male
+C 157,20-30 years,Male
+C 158,20-30 years,Male
+C 159,20-30 years,Male
+C 160,20-30 years,Male
+C 161,20-30 years,Male
+C 162,20-30 years,Male
+C 163,20-30 years,Female
+C 164,20-30 years,Male
+C 165,20-30 years,Male
+C 166,50-60 years,Male
+C 167,20-30 years,Female
+C 168,40-50 years,Male
+C 169,20-30 years,Male
+C 170,20-30 years,Male
+C 171,20-30 years,Male
+C 172,20-30 years,Male
+C 173,20-30 years,Male
+C 174,20-30 years,Male
+C 175,20-30 years,Male
+C 176,20-30 years,Male
+C 177,20-30 years,Female
+C 178,10-20 years,Female
+C 179,20-30 years,Male
+C 180,20-30 years,Female
+C 181,20-30 years,Female
+C 182,20-30 years,Female
+C 183,20-30 years,Male
+C 184,20-30 years,Male
+C 185,20-30 years,Male
+C 186,20-30 years,Female
+C 187,20-30 years,Male
+C 188,20-30 years,Male
+C 189,50-60 years,Male
+C 190,20-30 years,Male
+C 191,20-30 years,Male
+C 192,20-30 years,Male
+C 193,20-30 years,Male
+C 194,20-30 years,Female
+C 195,20-30 years,Female
+C 196,20-30 years,Male
+C 197,20-30 years,Male
+C 198,20-30 years,Male
+C 199,20-30 years,Male
+C 200,≥ 60 years,Male
+C 201,20-30 years,Female
+C 202,20-30 years,Female
+C 203,20-30 years,Male
+C 204,20-30 years,Male
+C 205,20-30 years,Male
+C 206,20-30 years,Female
+C 207,20-30 years,Female
+C 208,20-30 years,Male
+C 209,10-20 years,Female
+C 210,10-20 years,Male
+C 211,10-20 years,Female
+C 212,40-50 years,Male
+C 213,10-20 years,Female
+C 214,10-20 years,Male
+C 215,10-20 years,Female
+C 216,10-20 years,Male
+C 217,10-20 years,Male
+C 218,10-20 years,Female
+C 219,10-20 years,Male
+C 220,10-20 years,Male
+C 221,10-20 years,Male
+C 222,≥ 60 years,Female
+C 223,10-20 years,Female
+C 224,10-20 years,Female
+C 225,10-20 years,Female
+C 226,10-20 years,Male
+C 227,10-20 years,Female
+C 228,10-20 years,Male
+C 229,10-20 years,Male
+C 230,< 10 years,Male
+C 231,< 10 years,Male
+C 232,< 10 years,Male
+C 233,40-50 years,Male
+C 234,< 10 years,Female
+C 235,< 10 years,Male
+C 236,< 10 years,Male
+C 237,< 10 years,Female
+C 238,< 10 years,Male
+C 239,< 10 years,Male
+C 240,< 10 years,Female
+C 241,< 10 years,Female
+C 242,< 10 years,Male
+C 243,< 10 years,Male
+C 244,≥ 60 years,Female
+C 245,< 10 years,Male
+C 246,< 10 years,Male
+C 247,< 10 years,Male
+C 248,< 10 years,Female
+C 249,< 10 years,Female
+C 250,< 10 years,Male
+C 251,< 10 years,Female
+C 252,< 10 years,Female
+C 253,< 10 years,Male
+C 254,< 10 years,Male
+C 255,40-50 years,Female
+C 256,< 10 years,Male
+C 257,< 10 years,Female
+C 258,< 10 years,Male
+C 259,< 10 years,Male
+C 260,< 10 years,Male
+C 261,< 10 years,Female
+C 262,< 10 years,Female
+C 263,< 10 years,Female
+C 264,< 10 years,Male
+C 265,40-50 years,Female
+C 266,< 10 years,Male
+C 267,< 10 years,Male
+C 268,< 10 years,Male
+C 269,< 10 years,Female
+C 270,< 10 years,Female
+C 271,< 10 years,Male
+C 272,< 10 years,Male
+C 273,< 10 years,Male
+C 274,< 10 years,Male
+C 275,< 10 years,Male
+C 276,< 10 years,Male
+C 277,40-50 years,Male
+C 278,30-40 years,Female
+C 279,< 10 years,Male
+C 280,< 10 years,Female
+C 281,< 10 years,Male
+C 282,< 10 years,Male
+C 283,< 10 years,Male
+C 284,< 10 years,Male
+C 285,< 10 years,Female
+C 286,< 10 years,Male
+C 287,< 10 years,Male
+C 288,< 10 years,Male
+C 289,40-50 years,Male
+C 290,< 10 years,Female
+C 291,< 10 years,Female
+C 292,< 10 years,Male
+C 293,< 10 years,Male
+C 294,< 10 years,Male
+C 295,≥ 60 years,Male
+C 296,≥ 60 years,Male
+C 297,40-50 years,Female
+C 298,30-40 years,Male
+C 299,30-40 years,Female
+C 300,20-30 years,Male
+C 301,30-40 years,Male
+C 302,20-30 years,Male
+C 303,20-30 years,Female
+C 304,10-20 years,Female
+C 305,10-20 years,Male
+C 306,< 10 years,Male
+C 307,≥ 60 years,Female
+C 308,50-60 years,Male
+C 309,40-50 years,Female
+C 310,40-50 years,Female
+C 311,50-60 years,Male
+C 312,40-50 years,Male
+C 313,30-40 years,Female
+C 314,30-40 years,Female
+C 315,30-40 years,Male
+C 316,30-40 years,Female
+C 317,20-30 years,Female
+C 318,20-30 years,Female
+C 319,20-30 years,Male
+C 320,20-30 years,Female
+C 321,20-30 years,Male
+C 322,≥ 60 years,Male
+C 323,10-20 years,Male
+C 324,10-20 years,Male
+C 325,10-20 years,Male
+C 326,10-20 years,Male
+C 327,10-20 years,Male
+C 328,10-20 years,Male
+C 329,< 10 years,Male
+C 330,< 10 years,Female
+C 331,< 10 years,Male
+C 332,30-40 years,Male
+C 333,50-60 years,Male
+C 334,20-30 years,Male
+C 335,40-50 years,Female
+C 336,40-50 years,Male
+C 337,30-40 years,Female
+C 338,50-60 years,Female
+C 339,≥ 60 years,Male
+C 340,≥ 60 years,Male
+C 341,30-40 years,Male
+C 342,≥ 60 years,Male
+C 343,30-40 years,Male
+C 344,40-50 years,Female
+C 345,≥ 60 years,Male
+C 346,≥ 60 years,Male
+C 347,50-60 years,Female
+C 348,50-60 years,Male
+C 349,30-40 years,Female
+C 350,30-40 years,Male
+C 351,50-60 years,Male
+C 352,30-40 years,Male
+C 353,50-60 years,Male
+C 354,50-60 years,Female
+C 355,30-40 years,Male
+C 356,30-40 years,Female
+C 357,≥ 60 years,Female
+C 358,50-60 years,Male
+C 359,≥ 60 years,Male
+C 360,30-40 years,Male
+C 361,≥ 60 years,Female
+C 362,≥ 60 years,Male
+C 363,≥ 60 years,Female
+C 364,20-30 years,Male
+C 365,≥ 60 years,Female
+C 366,20-30 years,Male
+C 367,≥ 60 years,Male
+C 368,50-60 years,Male
+C 369,≥ 60 years,Male
+C 370,≥ 60 years,Female
+C 371,50-60 years,Female
+C 372,≥ 60 years,Female
+C 373,30-40 years,Male
+C 374,30-40 years,Male
+C 375,≥ 60 years,Female
+C 376,≥ 60 years,Female
+C 377,≥ 60 years,Female
+C 378,50-60 years,Male
+C 379,≥ 60 years,Female
+C 380,30-40 years,Male
+C 381,50-60 years,Male
+C 382,50-60 years,Female
+C 383,50-60 years,Male
+C 384,50-60 years,Female
+C 385,≥ 60 years,Female
+C 386,30-40 years,Female
+C 387,50-60 years,Female
+C 388,≥ 60 years,Female
+C 389,≥ 60 years,Female
+C 390,50-60 years,Male
+C 391,30-40 years,Male
+C 392,50-60 years,Male
+C 393,≥ 60 years,Male
+C 394,50-60 years,Female
+C 395,≥ 60 years,Female
+C 396,≥ 60 years,Female
+C 397,40-50 years,Male
+C 398,≥ 60 years,Female
+C 399,50-60 years,Male
+C 400,20-30 years,Male
+C 401,≥ 60 years,Female
+C 402,≥ 60 years,Female
+C 403,50-60 years,Female
+C 404,≥ 60 years,Male
+C 405,≥ 60 years,Female
+C 406,30-40 years,Male
+C 407,≥ 60 years,Male
+C 408,50-60 years,Female
+C 409,≥ 60 years,Male
+C 410,≥ 60 years,Female
+C 411,≥ 60 years,Male
+C 412,≥ 60 years,Female
+C 413,≥ 60 years,Female
+C 414,30-40 years,Female
+C 415,40-50 years,Female
+C 416,≥ 60 years,Female
+C 417,≥ 60 years,Female
+C 418,≥ 60 years,Male
+C 419,≥ 60 years,Male
+C 420,50-60 years,Female
+C 421,50-60 years,Male
+C 422,≥ 60 years,Male
+C 423,≥ 60 years,Male
+C 424,≥ 60 years,Male
+C 425,≥ 60 years,Female
+C 426,50-60 years,Female
+C 427,≥ 60 years,Female
+C 428,30-40 years,Female
+C 429,≥ 60 years,Male
+C 430,≥ 60 years,Male
+C 431,≥ 60 years,Male
+C 432,≥ 60 years,Female
+C 433,40-50 years,Female
+C 434,≥ 60 years,Female
+C 435,≥ 60 years,Female
+C 436,≥ 60 years,Female
+C 437,40-50 years,Male
+C 438,≥ 60 years,Female
+C 439,50-60 years,Male
+C 440,≥ 60 years,Male
+C 441,≥ 60 years,Male
+C 442,≥ 60 years,Male
+C 443,≥ 60 years,Male
+C 444,≥ 60 years,Male
+C 445,50-60 years,Male
+C 446,≥ 60 years,Female
+C 447,40-50 years,Male
+C 448,50-60 years,Male
+C 449,50-60 years,Male
+C 450,40-50 years,Male
+C 451,≥ 60 years,Female
+C 452,≥ 60 years,Male
+C 453,50-60 years,Male
+C 454,40-50 years,Male
+C 455,≥ 60 years,Male
+C 456,50-60 years,Female
+C 457,40-50 years,Male
+C 458,40-50 years,Male
+C 459,40-50 years,Male
+C 460,≥ 60 years,Female
+C 461,40-50 years,Male
+C 462,≥ 60 years,Female
+C 463,40-50 years,Male
+C 464,≥ 60 years,Male
+C 465,40-50 years,Male
+C 466,50-60 years,Female
+C 467,40-50 years,Female
+C 468,50-60 years,Male
+C 469,≥ 60 years,Male
+C 470,≥ 60 years,Male
+C 471,50-60 years,Male
+C 472,40-50 years,Male
+C 473,30-40 years,Female
+C 474,≥ 60 years,Female
+C 475,40-50 years,Male
+C 476,40-50 years,Female
+C 477,≥ 60 years,Female
+C 478,≥ 60 years,Male
+C 479,50-60 years,Male
+C 480,40-50 years,Male
+C 481,40-50 years,Male
+C 482,40-50 years,Male
+C 483,≥ 60 years,Female
+C 484,40-50 years,Male
+C 485,40-50 years,Male
+C 486,≥ 60 years,Male
+C 487,50-60 years,Male
+C 488,≥ 60 years,Female
+C 489,20-30 years,Female
+C 490,30-40 years,Female
+C 491,≥ 60 years,Female
+C 492,40-50 years,Male
+C 493,40-50 years,Male
+C 494,40-50 years,Male
+C 495,40-50 years,Female
+C 496,40-50 years,Female
+C 497,≥ 60 years,Male
+C 498,≥ 60 years,Male
+C 499,≥ 60 years,Female
+C 500,50-60 years,Female

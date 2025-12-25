@@ -1,0 +1,162 @@
+[
+  {
+    "rule": "['PT=PT_non_zero'] => ['Tested_PT']",
+    "support": 0.28084415584415584,
+    "confidence": 1.0,
+    "lift": 3.560693641618497,
+    "conviction": Infinity,
+    "leverage": 0.20197071597233934
+  },
+  {
+    "rule": "['Tested_PT'] => ['PT=PT_non_zero']",
+    "support": 0.28084415584415584,
+    "confidence": 1.0,
+    "lift": 3.560693641618497,
+    "conviction": Infinity,
+    "leverage": 0.20197071597233934
+  },
+  {
+    "rule": "['Tested_PT'] => ['DB=DB_low', 'PT=PT_non_zero']",
+    "support": 0.2792207792207792,
+    "confidence": 0.9942196531791907,
+    "lift": 3.560693641618497,
+    "conviction": 124.69480519480405,
+    "leverage": 0.20080325518637204
+  },
+  {
+    "rule": "['PT=PT_non_zero'] => ['DB=DB_low', 'Tested_PT']",
+    "support": 0.2792207792207792,
+    "confidence": 0.9942196531791907,
+    "lift": 3.560693641618497,
+    "conviction": 124.69480519480405,
+    "leverage": 0.20080325518637204
+  },
+  {
+    "rule": "['DB=DB_low', 'Tested_PT'] => ['PT=PT_non_zero']",
+    "support": 0.2792207792207792,
+    "confidence": 1.0,
+    "lift": 3.560693641618497,
+    "conviction": Infinity,
+    "leverage": 0.20080325518637204
+  },
+  {
+    "rule": "['DB=DB_low', 'PT=PT_non_zero'] => ['Tested_PT']",
+    "support": 0.2792207792207792,
+    "confidence": 1.0,
+    "lift": 3.560693641618497,
+    "conviction": Infinity,
+    "leverage": 0.20080325518637204
+  },
+  {
+    "rule": "['Missing_D-Dimer'] => ['Missing_CRP']",
+    "support": 0.577922077922078,
+    "confidence": 0.9531459170013388,
+    "lift": 1.519114837963324,
+    "conviction": 7.951600185528771,
+    "leverage": 0.1974886416343397
+  },
+  {
+    "rule": "['Missing_CRP'] => ['Missing_D-Dimer']",
+    "support": 0.577922077922078,
+    "confidence": 0.9210866752910738,
+    "lift": 1.519114837963324,
+    "conviction": 4.988623057270603,
+    "leverage": 0.1974886416343397
+  },
+  {
+    "rule": "['Tested_Albubin'] => ['Albubin=Albubin_non_zero']",
+    "support": 0.2702922077922078,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.19723433019902176
+  },
+  {
+    "rule": "['Albubin=Albubin_non_zero'] => ['Tested_Albubin']",
+    "support": 0.2702922077922078,
+    "confidence": 1.0,
+    "lift": 3.6996996996996994,
+    "conviction": Infinity,
+    "leverage": 0.19723433019902176
+  },
+  {
+    "rule": "['DB=DB_low', 'Missing_D-Dimer'] => ['Missing_CRP']",
+    "support": 0.575487012987013,
+    "confidence": 0.9529569892473118,
+    "lift": 1.5188137267175783,
+    "conviction": 7.919666048237465,
+    "leverage": 0.19658142182492827
+  },
+  {
+    "rule": "['Missing_CRP'] => ['DB=DB_low', 'Missing_D-Dimer']",
+    "support": 0.575487012987013,
+    "confidence": 0.9172056921086675,
+    "lift": 1.5188137267175783,
+    "conviction": 4.78419237012987,
+    "leverage": 0.19658142182492827
+  },
+  {
+    "rule": "['DB=DB_low', 'Missing_CRP'] => ['Missing_D-Dimer']",
+    "support": 0.575487012987013,
+    "confidence": 0.9207792207792208,
+    "lift": 1.518607764390897,
+    "conviction": 4.96926229508197,
+    "leverage": 0.19653003246753253
+  },
+  {
+    "rule": "['Missing_D-Dimer'] => ['DB=DB_low', 'Missing_CRP']",
+    "support": 0.575487012987013,
+    "confidence": 0.9491298527443107,
+    "lift": 1.518607764390897,
+    "conviction": 7.371710526315811,
+    "leverage": 0.19653003246753253
+  },
+  {
+    "rule": "['Tested_PT'] => ['PT=PT_non_zero', 'Troponin=Troponin_1']",
+    "support": 0.2727272727272727,
+    "confidence": 0.9710982658959537,
+    "lift": 3.560693641618497,
+    "conviction": 25.16363636363633,
+    "leverage": 0.19613341204250295
+  },
+  {
+    "rule": "['PT=PT_non_zero'] => ['Tested_PT', 'Troponin=Troponin_1']",
+    "support": 0.2727272727272727,
+    "confidence": 0.9710982658959537,
+    "lift": 3.560693641618497,
+    "conviction": 25.16363636363633,
+    "leverage": 0.19613341204250295
+  },
+  {
+    "rule": "['PT=PT_non_zero', 'Troponin=Troponin_1'] => ['Tested_PT']",
+    "support": 0.2727272727272727,
+    "confidence": 1.0,
+    "lift": 3.560693641618497,
+    "conviction": Infinity,
+    "leverage": 0.19613341204250295
+  },
+  {
+    "rule": "['Tested_PT', 'Troponin=Troponin_1'] => ['PT=PT_non_zero']",
+    "support": 0.2727272727272727,
+    "confidence": 1.0,
+    "lift": 3.560693641618497,
+    "conviction": Infinity,
+    "leverage": 0.19613341204250295
+  },
+  {
+    "rule": "['Albubin=Albubin_non_zero'] => ['DB=DB_low', 'Tested_Albubin']",
+    "support": 0.26785714285714285,
+    "confidence": 0.9909909909909909,
+    "lift": 3.6996996996996994,
+    "conviction": 81.26785714285597,
+    "leverage": 0.1954574443413729
+  },
+  {
+    "rule": "['Tested_Albubin'] => ['DB=DB_low', 'Albubin=Albubin_non_zero']",
+    "support": 0.26785714285714285,
+    "confidence": 0.9909909909909909,
+    "lift": 3.6996996996996994,
+    "conviction": 81.26785714285597,
+    "leverage": 0.1954574443413729
+  }
+]

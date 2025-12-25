@@ -1,0 +1,37 @@
+实验室数据重复情况分析:
+
+总记录数: 2280
+唯一Patient Code数量: 1733
+
+检测次数分布:
+  有 1 条记录的Patient Code: 1186 个
+  有 2 条记录的Patient Code: 547 个
+    例如: ['P 377', 'P 499', 'P 1205', 'P 375', 'P 125']
+
+各属性缺失值比例:
+  IL-6: 99.34%
+  Troponin: 75.88%
+  CPK-MB: 75.53%
+  Ferritin: 75.35%
+  LDH: 65.83%
+  PCT: 55.79%
+  Total Protein: 52.89%
+  PT: 52.11%
+  Albubin: 50.96%
+  D-Dimer: 30.57%
+  CRP: 28.64%
+  Hemoglobin: 22.85%
+  Platelet: 19.61%
+  WBC: 19.56%
+  DB: 17.63%
+  TB: 16.75%
+  ALP: 14.39%
+  Potassium: 13.07%
+  Glucose: 12.37%
+  ALT: 12.37%
+  AST: 12.37%
+  Creatinine: 10.88%
+  Sodium: 6.40%
+  Urea: 5.61%
+  Patient Code: 0.00%
+  Group: 0.00%

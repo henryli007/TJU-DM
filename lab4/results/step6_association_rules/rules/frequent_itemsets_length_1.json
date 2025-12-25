@@ -1,0 +1,362 @@
+[
+  {
+    "items": [
+      "DB=DB_low"
+    ],
+    "support": 0.9967532467532467
+  },
+  {
+    "items": [
+      "Troponin=Troponin_1"
+    ],
+    "support": 0.9732142857142857
+  },
+  {
+    "items": [
+      "Alive"
+    ],
+    "support": 0.952922077922078
+  },
+  {
+    "items": [
+      "PCT=PCT_zero"
+    ],
+    "support": 0.7881493506493507
+  },
+  {
+    "items": [
+      "Total Protein=Total Protein_zero"
+    ],
+    "support": 0.752435064935065
+  },
+  {
+    "items": [
+      "Albubin=Albubin_zero"
+    ],
+    "support": 0.7297077922077922
+  },
+  {
+    "items": [
+      "PT=PT_zero"
+    ],
+    "support": 0.7191558441558441
+  },
+  {
+    "items": [
+      "Missing_Hemoglobin"
+    ],
+    "support": 0.6818181818181818
+  },
+  {
+    "items": [
+      "Creatinine=Creatinine_low"
+    ],
+    "support": 0.648538961038961
+  },
+  {
+    "items": [
+      "Missing_CRP"
+    ],
+    "support": 0.627435064935065
+  },
+  {
+    "items": [
+      "Missing_D-Dimer"
+    ],
+    "support": 0.6063311688311688
+  },
+  {
+    "items": [
+      "Hemoglobin=Hemoglobin_low"
+    ],
+    "support": 0.5965909090909091
+  },
+  {
+    "items": [
+      "D-Dimer=D-Dimer_low"
+    ],
+    "support": 0.5616883116883117
+  },
+  {
+    "items": [
+      "CRP=CRP_low"
+    ],
+    "support": 0.5267857142857143
+  },
+  {
+    "items": [
+      "TB=TB_low"
+    ],
+    "support": 0.4448051948051948
+  },
+  {
+    "items": [
+      "Platelet=Platelet_low"
+    ],
+    "support": 0.4342532467532468
+  },
+  {
+    "items": [
+      "Sodium=Sodium_low"
+    ],
+    "support": 0.4237012987012987
+  },
+  {
+    "items": [
+      "TB=TB_med"
+    ],
+    "support": 0.41964285714285715
+  },
+  {
+    "items": [
+      "Potassium=Potassium_low"
+    ],
+    "support": 0.4163961038961039
+  },
+  {
+    "items": [
+      "ALP=ALP_low"
+    ],
+    "support": 0.3944805194805195
+  },
+  {
+    "items": [
+      "WBC=WBC_low"
+    ],
+    "support": 0.39366883116883117
+  },
+  {
+    "items": [
+      "AST=AST_low"
+    ],
+    "support": 0.3482142857142857
+  },
+  {
+    "items": [
+      "ALT=ALT_low"
+    ],
+    "support": 0.3482142857142857
+  },
+  {
+    "items": [
+      "Urea=Urea_low"
+    ],
+    "support": 0.3400974025974026
+  },
+  {
+    "items": [
+      "Glucose=Glucose_low"
+    ],
+    "support": 0.336038961038961
+  },
+  {
+    "items": [
+      "Glucose=Glucose_high"
+    ],
+    "support": 0.3327922077922078
+  },
+  {
+    "items": [
+      "CRP=CRP_high"
+    ],
+    "support": 0.3327922077922078
+  },
+  {
+    "items": [
+      "Glucose=Glucose_med"
+    ],
+    "support": 0.33116883116883117
+  },
+  {
+    "items": [
+      "Urea=Urea_med"
+    ],
+    "support": 0.33035714285714285
+  },
+  {
+    "items": [
+      "Platelet=Platelet_high"
+    ],
+    "support": 0.32954545454545453
+  },
+  {
+    "items": [
+      "Urea=Urea_high"
+    ],
+    "support": 0.32954545454545453
+  },
+  {
+    "items": [
+      "ALT=ALT_high"
+    ],
+    "support": 0.3287337662337662
+  },
+  {
+    "items": [
+      "WBC=WBC_high"
+    ],
+    "support": 0.32792207792207795
+  },
+  {
+    "items": [
+      "AST=AST_med"
+    ],
+    "support": 0.3262987012987013
+  },
+  {
+    "items": [
+      "AST=AST_high"
+    ],
+    "support": 0.325487012987013
+  },
+  {
+    "items": [
+      "Hemoglobin=Hemoglobin_high"
+    ],
+    "support": 0.32305194805194803
+  },
+  {
+    "items": [
+      "ALT=ALT_med"
+    ],
+    "support": 0.32305194805194803
+  },
+  {
+    "items": [
+      "ALP=ALP_high"
+    ],
+    "support": 0.32305194805194803
+  },
+  {
+    "items": [
+      "D-Dimer=D-Dimer_high"
+    ],
+    "support": 0.3157467532467532
+  },
+  {
+    "items": [
+      "Sodium=Sodium_med"
+    ],
+    "support": 0.3116883116883117
+  },
+  {
+    "items": [
+      "Potassium=Potassium_high"
+    ],
+    "support": 0.29788961038961037
+  },
+  {
+    "items": [
+      "Potassium=Potassium_med"
+    ],
+    "support": 0.2857142857142857
+  },
+  {
+    "items": [
+      "ALP=ALP_med"
+    ],
+    "support": 0.2824675324675325
+  },
+  {
+    "items": [
+      "Tested_PT"
+    ],
+    "support": 0.28084415584415584
+  },
+  {
+    "items": [
+      "PT=PT_non_zero"
+    ],
+    "support": 0.28084415584415584
+  },
+  {
+    "items": [
+      "WBC=WBC_med"
+    ],
+    "support": 0.2784090909090909
+  },
+  {
+    "items": [
+      "Tested_Albubin"
+    ],
+    "support": 0.2702922077922078
+  },
+  {
+    "items": [
+      "Albubin=Albubin_non_zero"
+    ],
+    "support": 0.2702922077922078
+  },
+  {
+    "items": [
+      "Sodium=Sodium_high"
+    ],
+    "support": 0.26461038961038963
+  },
+  {
+    "items": [
+      "Tested_Total Protein"
+    ],
+    "support": 0.24756493506493507
+  },
+  {
+    "items": [
+      "Total Protein=Total Protein_non_zero"
+    ],
+    "support": 0.24756493506493507
+  },
+  {
+    "items": [
+      "Creatinine=Creatinine_high"
+    ],
+    "support": 0.2418831168831169
+  },
+  {
+    "items": [
+      "Platelet=Platelet_med"
+    ],
+    "support": 0.2362012987012987
+  },
+  {
+    "items": [
+      "PCT=PCT_non_zero"
+    ],
+    "support": 0.21185064935064934
+  },
+  {
+    "items": [
+      "Tested_PCT"
+    ],
+    "support": 0.21185064935064934
+  },
+  {
+    "items": [
+      "CRP=CRP_med"
+    ],
+    "support": 0.14042207792207792
+  },
+  {
+    "items": [
+      "TB=TB_high"
+    ],
+    "support": 0.13555194805194806
+  },
+  {
+    "items": [
+      "D-Dimer=D-Dimer_med"
+    ],
+    "support": 0.12256493506493507
+  },
+  {
+    "items": [
+      "Creatinine=Creatinine_med"
+    ],
+    "support": 0.10957792207792208
+  },
+  {
+    "items": [
+      "Hemoglobin=Hemoglobin_med"
+    ],
+    "support": 0.08035714285714286
+  }
+]

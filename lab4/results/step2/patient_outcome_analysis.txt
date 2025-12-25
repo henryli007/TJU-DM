@@ -1,0 +1,33 @@
+患者结局数据统计:
+
+患者结局分布:
+  No: 1174 人 (95.3%)
+  Yes: 58 人 (4.7%)
+
+各属性缺失值比例:
+  IL-6: 99.51%
+  Troponin: 97.32%
+  CPK-MB: 96.67%
+  Ferritin: 95.54%
+  LDH: 84.90%
+  PCT: 78.81%
+  Total Protein: 75.24%
+  Albubin: 72.97%
+  PT: 71.92%
+  D-Dimer: 39.37%
+  CRP: 37.26%
+  Hemoglobin: 31.82%
+  Platelet: 28.08%
+  WBC: 28.08%
+  DB: 21.51%
+  TB: 19.81%
+  Potassium: 17.78%
+  ALP: 16.96%
+  Creatinine: 14.94%
+  Glucose: 14.61%
+  ALT: 14.53%
+  AST: 14.53%
+  Sodium: 9.25%
+  Urea: 8.04%
+  Patient Code: 0.00%
+  Deceased: 0.00%
